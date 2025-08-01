@@ -1,2 +1,16 @@
 
 /* Your CSS Code here. */
+.row1{
+	width:100vw;
+	display:flex;
+	gap:5px;
+	margin:10px;
+	height:30px;
+}
+.row2{
+	width:100vw;
+	display:flex;
+	gap:5px;
+	margin:10px;
+	height:30px;
+}
